@@ -1,5 +1,4 @@
 # edify-python
-# warb
 
 An application used to display Twitter Clone project for Matthew Joki, built with Flask / Python, Jinja2, SQLAlchemy, and Postgresql.
 
